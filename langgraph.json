@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "excel-analyst": "./src/excel_analyst/graph.py:agent"
+  },
+  "env": ".env"
+}
